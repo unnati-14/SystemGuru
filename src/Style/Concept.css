@@ -1,0 +1,11 @@
+.outer{
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+    padding: 4rem;
+}
+.card{
+     margin-top: 3.5rem; 
+     margin-left: 4rem;
+    margin-right: 4rem;
+} 

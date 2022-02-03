@@ -1,0 +1,21 @@
+.nav{
+    background-color: rgba(202, 159, 159, 0.11);
+    padding: 1rem;
+    font-size: larger;
+    font-weight: bold;
+    padding: 1.5rem;
+}
+.list-group{
+    margin-top: 4rem;
+    text-align: center;
+    border: 2px solid black;
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 3px;
+    font-size: larger;
+}
+.page-footer{
+    margin-top: 4rem;
+    background-color: rgba(202, 159, 159, 0.11);
+    padding: 1.5rem;
+}

@@ -15,7 +15,7 @@ export default function Navbar() {
       <div className='container'>
       <ul className="list-group">
         <a className="list-group-item nav-link" href="https://youtu.be/4WjUSN0qIhc" target="_blank">Design A Code-Deployment System</a>
-        <a className="list-group-item nav-link" href="Concept.js">Design AlgoExpert</a>
+        <a className="list-group-item nav-link" href="https://youtu.be/PmDJEAEHg3M" target="_blank">Design AlgoExpert</a>
         <a className="list-group-item nav-link" href="Concept.js">Design A Stockbroker</a>
         <a className="list-group-item nav-link" href="Concept.js">Design Amazon</a>
         <a className="list-group-item nav-link" href="Concept.js">Design The Reddit API</a>

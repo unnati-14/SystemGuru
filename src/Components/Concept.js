@@ -1,7 +1,6 @@
 import React, { Fragment } from 'react';
 import '../Style/Concept.css';
 import '../Style/Navbar.css'
-import VideoPlayer from "react-video-js-player"
 
 export default function Concept() {
   return(
@@ -176,7 +175,7 @@ export default function Concept() {
     <div className="card-body">
       <h5 className="card-title">21. Logging And Monitoring</h5>
       <p className="card-text">In order to properly understand and diagnose issues that crop up within a system, it’s critical to have mechanisms in place that create audit trails of various events that occur within said system.So go ahead, unleash your inner Orwell and go full Big Brother on your application.</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank"> target="_blank"Go to video</a>
+      <a href="https://youtu.be/5KFG3h-RxqY" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank"> target="_blank"Go to video</a>
     </div>
   </div>
   <div className="card text-center">
@@ -198,7 +197,7 @@ export default function Concept() {
     <div className="card-body">
       <h5 className="card-title">24. Security And HTTPS</h5>
       <p className="card-text">While network security is of critical importance to virtually any system, it's beyond the scope of most system design interviews.That being said, having even a cursory understanding of a few key concepts could very well materialize into the edge you need to ace your interview and secure—pun perhaps intended—a job offer.</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
+      <a href="https://youtu.be/eJSKNYewjww" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">

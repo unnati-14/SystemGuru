@@ -16,18 +16,18 @@ export default function Navbar() {
       <ul className="list-group">
         <a className="list-group-item nav-link" href="https://youtu.be/4WjUSN0qIhc" target="_blank">Design A Code-Deployment System</a>
         <a className="list-group-item nav-link" href="https://youtu.be/PmDJEAEHg3M" target="_blank">Design AlgoExpert</a>
-        <a className="list-group-item nav-link" href="Concept.js">Design A Stockbroker</a>
-        <a className="list-group-item nav-link" href="Concept.js">Design Amazon</a>
-        <a className="list-group-item nav-link" href="Concept.js">Design The Reddit API</a>
-        <a className="list-group-item nav-link" href="Concept.js">Design Facebook News Feed</a>
-        <a className="list-group-item nav-link" href="Concept.js">Design Google Drive</a>
-        <a className="list-group-item nav-link" href="Concept.js">Design Netflix</a>
-        <a className="list-group-item nav-link" href="Concept.js">Design The Uber API</a>
-        <a className="list-group-item nav-link" href="Concept.js">Design Tinder</a>
-        <a className="list-group-item nav-link" href="Concept.js">Design Tinder</a>
-        <a className="list-group-item nav-link" href="Concept.js">Design Slack</a>
-        <a className="list-group-item nav-link" href="Concept.js">Design Airbnb</a>
-        <a className="list-group-item nav-link" href="Concept.js">Design The Twitch API</a>
+        <a className="list-group-item nav-link" href="https://youtu.be/dusRWtSvxuY" target="_blank">Design A Stockbroker</a>
+        <a className="list-group-item nav-link" href="https://youtu.be/rugOQunQV1Y" target="_blank">Design Amazon</a>
+        <a className="list-group-item nav-link" href="Concept.js" target="_blank">Design The Reddit API</a>
+        <a className="list-group-item nav-link" href="Concept.js" target="_blank">Design Facebook News Feed</a>
+        <a className="list-group-item nav-link" href="Concept.js" target="_blank">Design Google Drive</a>
+        <a className="list-group-item nav-link" href="Concept.js" target="_blank">Design Netflix</a>
+        <a className="list-group-item nav-link" href="Concept.js" target="_blank">Design The Uber API</a>
+        <a className="list-group-item nav-link" href="Concept.js" target="_blank">Design Tinder</a>
+        <a className="list-group-item nav-link" href="Concept.js" target="_blank">Design Tinder</a>
+        <a className="list-group-item nav-link" href="Concept.js" target="_blank">Design Slack</a>
+        <a className="list-group-item nav-link" href="Concept.js" target="_blank">Design Airbnb</a>
+        <a className="list-group-item nav-link" href="Concept.js" target="_blank">Design The Twitch API</a>
       </ul>
       </div>
       <a href="/Solution Walkthrough.pdf" className="btn " style={{backgroundColor:"#bd4d7a",color:"white",marginTop:"3rem"}} target="_blank">Solution Walkthrough Pdf</a>

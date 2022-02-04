@@ -8,9 +8,9 @@ export default function Navbar() {
   return (
     <Fragment>
       <nav className="nav nav-pills flex-column flex-sm-row" >
-          <a className="flex-sm-fill text-sm-center nav-link" href="#">SystemGuru</a>
-          <a className="flex-sm-fill text-sm-center nav-link"> <Link to="/concept" style={{textDecoration:"none"}} target="_blank">System Design Concept</Link></a>
-          <a className="flex-sm-fill text-sm-center nav-link active"><Link to="/" style={{textDecoration:"none",color:"white"}}>System Design Questions</Link></a>
+          <a className="flex-sm-fill text-sm-center nav-link" href="#" style={{color:"black"}}>SystemGuru</a>
+          <a className="flex-sm-fill text-sm-center nav-link" > <Link to="/concept" style={{textDecoration:"none",color:"black"}} target="_blank">System Design Concept</Link></a>
+          <a className="flex-sm-fill text-sm-center nav-link "><Link to="/" style={{textDecoration:"none",color:"white",backgroundColor:"#bd4d7a",padding:"0.5rem",borderRadius:"0.5rem"}}>System Design Questions</Link></a>
     </nav>
       <div className='container'>
       <ul className="list-group">
@@ -30,6 +30,7 @@ export default function Navbar() {
         <a className="list-group-item nav-link" href="Concept.js">Design The Twitch API</a>
       </ul>
       </div>
+      <a href="/Solution Walkthrough.pdf" className="btn " style={{backgroundColor:"#bd4d7a",color:"white",marginTop:"3rem"}} target="_blank">Solution Walkthrough Pdf</a>
       <footer className="page-footer">
         <div className="footer-copyright text-center py-3">©2022 : Made by Unnie :)</div>
       </footer>

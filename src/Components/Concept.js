@@ -77,7 +77,7 @@ export default function Concept() {
       <h5 className="card-title">8. Caching</h5>
       <p className="card-text">What do a punching bag and a cache have in common?
       They can both take a hit!  (ง ͠° ل͜ ͡°)ง</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}}>Go to video</a>
+      <a href="https://youtu.be/G4B0NPeumzA" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">
@@ -116,7 +116,7 @@ export default function Concept() {
     <div className="card-body">
       <h5 className="card-title">13. Key-Value Stores</h5>
       <p className="card-text">One of the most commonly used NoSQL paradigms today, the key-value store bases its data model on the associative array data type.The result? A fast, flexible storage machine that resembles a hash table. That's right folks, our favorite friendly neighborhood data structure strikes again!</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}}>Go to video</a>
+      <a href="https://youtu.be/4jMH1bNdyag" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">

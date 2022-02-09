@@ -9,8 +9,9 @@ export default function Navbar() {
     <Fragment>
       <nav className="nav nav-pills flex-column flex-sm-row" >
           <a className="flex-sm-fill text-sm-center nav-link" href="#" style={{color:"black"}}>SystemGuru</a>
-          <a className="flex-sm-fill text-sm-center nav-link" > <Link to="/concept" style={{textDecoration:"none",color:"black"}} target="_blank">System Design Concept</Link></a>
+          <a className="flex-sm-fill text-sm-center nav-link" ><Link to="/concept" style={{textDecoration:"none",color:"black"}} target="_blank">System Design Concept</Link></a>
           <a className="flex-sm-fill text-sm-center nav-link "><Link to="/" style={{textDecoration:"none",color:"white",backgroundColor:"#bd4d7a",padding:"0.5rem",borderRadius:"0.5rem"}}>System Design Questions</Link></a>
+          <a className="flex-sm-fill text-sm-center nav-link "><Link to="/interview" style={{textDecoration:"none",color:"black"}} target="_blank">System Design Interview tips</Link></a>
     </nav>
       <div className='container'>
       <ul className="list-group">

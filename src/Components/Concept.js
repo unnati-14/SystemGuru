@@ -2,6 +2,7 @@ import React, { Fragment } from 'react';
 import '../Style/Concept.css';
 import '../Style/Navbar.css'
 
+
 export default function Concept() {
   return(
   <Fragment>
@@ -85,14 +86,14 @@ export default function Concept() {
       <h5 className="card-title">9. Proxies</h5>
       <p className="card-text">Often used by nefarious hackers to conceal their identity and obfuscate their location, these special intermediary servers boast many important real-life applications within the context of caching, access control, and censorship bypassing, 
       amongst other things.</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}}>Go to video</a>
+      <a href="https://youtu.be/U0umMDqyT-U" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">
     <div className="card-body">
       <h5 className="card-title">10. Load Balancers</h5>
       <p className="card-text">Relentlessly distributing network requests across multiple servers, these digital traffic cops act as watchful guardians for your system, ensuring that it operates at peak performance day and night.</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}}>Go to video</a>
+      <a href="https://youtu.be/aCND1rAIIcQ" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">
@@ -101,7 +102,7 @@ export default function Concept() {
       <p className="card-text">Hashing? Like from hash tables? Should be simple enough, right?
       The good news is that, yes, hashing like from hash tables.
       The bad news is that, no, not simple enough. The video duration and thumbnail should be ominously indicative.</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}}>Go to video</a>
+      <a href="https://youtu.be/44RP1G-6wDE" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">
@@ -109,7 +110,7 @@ export default function Concept() {
       <h5 className="card-title">12. Relational Databases</h5>
       <p className="card-text">Tables and ACID.No, we're not describing a drug lord's desk, but rather referring to key properties of relational databases. 
       There's a lot of material to cover here, so hit the play button, kick back, and get ready to store tons of knowledge in the biggest database of them all: your brain.</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
+      <a href="https://youtu.be/nTYm0YJCIV0" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">
@@ -123,7 +124,7 @@ export default function Concept() {
     <div className="card-body">
       <h5 className="card-title">14. Specialized Storage Paradigms</h5>
       <p className="card-text">Yup. This is another video about storage.Nope. This isn't the last video about storage</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}}>Go to video</a>
+      <a href="https://youtu.be/AnZrbAw1_Ac" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">
@@ -131,7 +132,7 @@ export default function Concept() {
       <h5 className="card-title">15. Replication And Sharding</h5>
       <p className="card-text">A system's performance is often only as good as its database's; optimize the latter, and watch as the former improves in tandem!
       On that note, in this video we'll examine how data redundancy and data partitioning techniques can be used to enhance a system's fault tolerance, throughput, and overall reliability.</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}}>Go to video</a>
+      <a href="https://youtu.be/bUslyM6T3uE" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">
@@ -139,14 +140,14 @@ export default function Concept() {
       <h5 className="card-title">16. Leader Election</h5>
       <p className="card-text">Citizens in a society typically elect a leader by voting for their preferred candidate. But how do servers in a distributed system choose a master node? Via algorithms of course!
       This form of algorithmic democracy is known as "leader election", though we personally think "algorithmocracy" sounds way cooler.</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}}>Go to video</a>
+      <a href="https://youtu.be/MINoLGVcNCM" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">
     <div className="card-body">
       <h5 className="card-title">17. Peer-To-Peer Networks</h5>
       <p className="card-text">Equality for all.Sharing is caring.Unity makes strength.The more the merrier.Teamwork makes the dream work.Welcome to peer-to-peer networks!</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
+      <a href="https://youtu.be/8Ggytvg7JUc" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">
@@ -154,35 +155,35 @@ export default function Concept() {
       <h5 className="card-title">18. Polling And Streaming</h5>
       <p className="card-text">You can think of polling and streaming kind of like a classroom; sometimes students ask the teacher lots of questions, and other times they quiet down and listen attentively to the teacher's lecture.
       Now fire up the video and get ready to stream; you won't be able to poll here. Class is in session!</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
+      <a href="https://youtu.be/YtcaKWA9OFg" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">
     <div className="card-body">
       <h5 className="card-title">19. Configuration</h5>
       <p className="card-text">The config file is like the genome of a computer application; it stores parameters that define your system's critical settings, much like your DNA stores the genes that define your physical characteristics.Unlike its biological counterpart though, the config file is easily editable. No gene therapy needed!</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
+      <a href="https://youtu.be/u3Kq2buPI5I" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">
     <div className="card-body">
       <h5 className="card-title">20. Rate Limiting</h5>
       <p className="card-text">*Poke**Poke**Poke**Po——*Too many pokes! You just got rate limited.</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
+      <a href="https://youtu.be/oFKiOoj1XWk" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">
     <div className="card-body">
       <h5 className="card-title">21. Logging And Monitoring</h5>
       <p className="card-text">In order to properly understand and diagnose issues that crop up within a system, it’s critical to have mechanisms in place that create audit trails of various events that occur within said system.So go ahead, unleash your inner Orwell and go full Big Brother on your application.</p>
-      <a href="https://youtu.be/5KFG3h-RxqY" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank"> target="_blank"Go to video</a>
+      <a href="https://youtu.be/5KFG3h-RxqY" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank"> Go to video</a>
     </div>
   </div>
   <div className="card text-center">
     <div className="card-body">
       <h5 className="card-title">22.Publish/Subscribe Pattern</h5>
       <p className="card-text">Publish/Subscribe. Press/Tug. Produce/Consume. Push/Pull. Send/Receive. Throw/Catch. Thrust/Retrieve.Three of these can be used interchangeably in the context of systems design. The others cannot.</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
+      <a href="https://youtu.be/1xEC4bSUPyE" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">
@@ -190,7 +191,7 @@ export default function Concept() {
       <h5 className="card-title">23. MapReduce</h5>
       <p className="card-text">"MapReduce is a programming model for processing and generating big data sets with a parallel, distributed algorithm on a cluster."
       Does Wikipedia's nebulous definition confuse you? Of course it does. In this video, we'll map out this complex topic and reduce it to clear, easily-understood concepts. See what we did there?  ( ͡~ ͜ʖ ͡°)</p>
-      <a href="#" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
+      <a href="https://youtu.be/cv2HgIRM4Gg" className="btn " style={{backgroundColor:"#bd4d7a",color:"white"}} target="_blank">Go to video</a>
     </div>
   </div>
   <div className="card text-center">

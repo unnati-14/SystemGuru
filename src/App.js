@@ -14,10 +14,6 @@ function App() {
     </switch>
     </div>
     </Router>
-    // <div className="App">
-    //   <Navbar />
-    //   <Concept />
-    // </div>
   );
 }
 

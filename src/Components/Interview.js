@@ -2,7 +2,6 @@ import React, { Fragment } from 'react';
 import '../Style/Concept.css';
 import '../Style/Navbar.css'
 
-
 export default function Concept() {
   return(
   <Fragment>
